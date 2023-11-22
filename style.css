@@ -1,0 +1,78 @@
+h1 {
+    text-align: center;
+}
+
+#div1 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  opacity: 0.4;
+  background: white;
+}
+#div2 {
+    width: 414px;
+          height: 129px;
+          left: 22px;
+          top: 22px;
+          position: absolute;
+          text-align: center;
+          color: black;
+          font-size: 48px;
+          font-family: Inter;
+          font-weight: 400;
+          word-wrap: break-word;
+}
+#div3 {
+              width: 307px;
+          height: 447px;
+          left: 567px;
+          top: 105px;
+          position: absolute;
+          background: #d9d9d9;
+          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+          border: 1px #550000 solid;
+}
+#div4 {
+}
+#div5 {
+}
+#div6 {
+}
+#div7 {
+}
+#div8 {
+}
+#div9 {
+}
+#div10 {
+}
+#div11 {
+}
+#div12 {
+}
+#div13 {
+}
+#div14 {
+}
+#div15 {
+}
+#div16 {
+}
+#div17 {
+}
+#div18 {
+}
+#div19 {
+}
+#div20 {
+}
+#div21 {
+}
+#div22 {
+}
+#div23 {
+}
+#img1 {
+}
+#img2 {
+}
