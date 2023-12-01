@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgb(73, 68, 68)(255, 0, 200); 
+    background-color: rgb(143, 110, 88); 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -9,6 +9,7 @@ body {
 
 #video {
     height: 50%;
+    width: 25%;
 }
 
 #INFO {
@@ -16,7 +17,12 @@ body {
 }
 
 #pic {
-    width:20%;
-    height:20%;
+    width: 20%;
+    height: 20%;
 
+}
+
+.button {
+    height: 10%;
+    Width: 10%;
 }
