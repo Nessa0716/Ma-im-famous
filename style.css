@@ -19,10 +19,17 @@ body {
 #pic {
     width: 20%;
     height: 20%;
-
 }
 
 #button1 {
     height: 10%;
     Width: 10%;
 }
+
+.zoom {
+    transition: transform .5s; 
+  }
+  
+  .zoom:hover {
+    transform: scale(1.5); 
+  }
